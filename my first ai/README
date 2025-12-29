@@ -1,0 +1,15 @@
+Beginner Project Notice
+
+This is beginner code.
+
+You are free to use and redistribute this code IF you change it.
+
+This project uses a custom datasheet (hand-made character grids).
+
+This is V1, so the model accuracy is not very good yet.
+Future versions will improve training, accuracy, and persistence.
+
+Required Libraries
+ tensorflow
+ keras
+ numpy
