@@ -1,0 +1,23 @@
+Beginner Project Notice
+
+This is beginner code.
+
+You are free to use and redistribute this code IF you change it.
+
+This project uses a custom datasheet (hand-made character grids).
+
+This is V2, model accuracy is very accuret and better over v1.
+Future versions will improve training, accuracy, and persistence.
+
+FUTURE VERSION NOTICE
+
+all futer projects will eather have this one in it or not be part of this branch.
+further projects are planned to be for games and robots.
+you are free to use all models.
+
+Required Libraries
+ tensorflow
+ keras
+ numpy
+
+datasheet is custom.
